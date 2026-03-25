@@ -2,7 +2,7 @@
 name = "alice-monitor"
 version = "1.0.0"
 edition = "2021"
-authors = ["Moroya Sakamoto"]
+authors = ["Moroya Sakamoto <sakamoro@alicelaw.net>"]
 license = "AGPL-3.0"
 description = "Infrastructure monitoring: health checks, alerts, SLA tracking, uptime, incident management, status pages, heartbeat detection"
 
